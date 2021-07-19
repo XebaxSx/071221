@@ -32,6 +32,9 @@ font-weight: bold;
 .navbar-brand {
 
 }
+.card-img-top{
+  max-height: 13rem;
+}
 
 .ajuste {
   width: 5rem;

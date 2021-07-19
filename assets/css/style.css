@@ -133,3 +133,6 @@ h4 {
 .bg-black{
   background-color: black;
 }
+.well {
+   background-color: rgba(245, 245, 245, 0);
+}

@@ -1,0 +1,138 @@
+body {
+  font-family: 'Lato', sans-serif;
+}
+
+header {
+
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: left;
+
+}
+
+.rocklobster {
+  font-family: 'Lobster', sans-serif;
+}
+
+
+
+.custom-container {
+  max-height: 10rem;
+  margin: auto;
+}
+
+.card {
+max-width: auto;
+max-height: auto;
+}
+
+.card-title {
+font-weight: bold;
+}
+.navbar-brand {
+
+}
+.card-img-top{
+  max-height: 13rem;
+}
+
+.ajuste {
+  width: 2rem;
+  padding-top: 0;
+  padding-bottom: 0.5rem;
+  vertical-align: none;
+}
+.ajuste2 {
+  width: 8rem;
+}
+
+.pink {
+  background-color: #E83E8C;
+}
+
+.bg-custom {
+    background-color: #E83E8C;
+}
+
+.icons-section {
+  Color: white;
+  weight: 700;
+  display:inline-block;
+
+}
+.moded {
+  font-size: 3rem;
+}
+.cambiotamano {
+  height: 8rem;
+  width: 4rem;i
+}
+h2 {
+  font-size: 1.25rem;
+  font-weight: 300;
+}
+
+h2.fmedium {
+  font-weight: 500;
+}
+
+h3 {
+  font-size: 1rem;
+  font-weight: 300;
+}
+
+h4 {
+  font-size: 0.813rem;
+  font-weight: 300;
+}
+
+.claro{
+  color: #707070;
+}
+.espaciov {
+  margin-top: 1rem;
+  margin-bottom: 0.5rem;
+}
+
+.csustom
+{
+  margin-top: 0.5rem;
+  margin-bottom: 1rem;
+}
+.carousel-indicators li {
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  position: relative;
+  bottom: -50px;
+  background-color: #373A3C;
+}
+.gigante{
+  font-size: 1,875rem;
+}
+.paddins{
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+}
+.paddinsm{
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+}
+
+.custom-class {
+  display: none;
+}
+@media (min-width: 576px) {
+  .custom-class {
+    display: block;
+  }
+  .custom-container {
+    max-width: 480px;
+  }
+}
+.bg-black{
+  background-color: black;
+}
+.well {
+   background-color: rgba(245, 245, 245, 0);
+}

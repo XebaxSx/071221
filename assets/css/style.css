@@ -37,9 +37,10 @@ font-weight: bold;
 }
 
 .ajuste {
-  width: 5rem;
-  padding-top: 0.5rem;
+  width: 2rem;
+  padding-top: 0;
   padding-bottom: 0.5rem;
+  vertical-align: none;
 }
 .ajuste2 {
   width: 8rem;
